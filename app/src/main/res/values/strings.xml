@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Stepmeter</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Panel</string>
+    <string name="nav_analytics">Grafikler</string>
+    <string name="nav_goals">Hedefler</string>
+    <string name="nav_backup_settings">Ayarlar</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Günlük Hareket</string>
+    <string name="dashboard_subtitle">Yerel ve şifreli takip</string>
+    <string name="steps_label">Adım</string>
+    <string name="distance_label">Mesafe</string>
+    <string name="calories_label">Kalori</string>
+    <string name="active_minutes_label">Süre</string>
+    <string name="unit_km">km</string>
+    <string name="unit_kcal">kcal</string>
+    <string name="unit_min">dk</string>
+    <string name="action_share_progress">Paylaş</string>
+    <string name="sensor_permission_title">Adım Sensörü İzni</string>
+    <string
+    name="sensor_permission_desc"
+  >Canlı adım sayımı için fiziksel aktivite izni gerekir.</string>
+    <string name="sensor_permission_allow">İzin Ver</string>
+    <string name="sensor_active_badge">Canlı Sensör</string>
+    <string name="sensor_pending_badge">Sensör Bekleniyor</string>
+    <string name="cancel">İptal</string>
+
+    <!-- Analytics -->
+    <string name="analytics_title">İstatistikler</string>
+    <string name="analytics_monthly_summary">Son 30 Gün</string>
+    <string name="analytics_tab_steps">Adım</string>
+    <string name="analytics_tab_distance">Mesafe</string>
+    <string name="analytics_tab_calories">Kalori</string>
+    <string name="analytics_empty_title">Henüz kayıt yok</string>
+    <string
+    name="analytics_empty_desc"
+  >Adım sensörü hareket algıladığında grafik burada görünür.</string>
+
+    <!-- Goals & Notifications -->
+    <string name="goals_title">Hedefler</string>
+    <string name="goals_add_button">Hedef Ekle</string>
+    <string name="goal_period_daily">Günlük</string>
+    <string name="goal_period_weekly">Haftalık</string>
+    <string name="goal_period_monthly">Aylık</string>
+    <string name="goal_metric_steps">Adım Hedefi</string>
+    <string name="goal_metric_calories">Kalori Hedefi (kcal)</string>
+    <string name="notifications_section_title">Bildirimler</string>
+    <string name="notifications_mark_all_read">Okundu İşaretle</string>
+    <string name="notifications_empty">Henüz bildirim yok.</string>
+
+    <!-- Share Progress -->
+    <string name="share_screen_title">İlerleme Kartını Paylaş</string>
+    <string name="share_period_daily">Günlük Özet</string>
+    <string name="share_period_weekly">Haftalık Özet</string>
+    <string name="share_action_now">Sosyal Medya veya Mesajla Paylaş</string>
+    <string
+    name="share_card_footer"
+  >Stepmeter · Yerel ve Gizli Adımsayar</string>
+
+    <!-- Foreground Service -->
+    <string name="fgs_channel_name">Canlı Adım Takibi</string>
+    <string
+    name="fgs_channel_desc"
+  >Arka planda gerçek zamanlı adım, mesafe ve kalori takibi</string>
+    <string name="fgs_notification_title">Stepmeter Canlı Takip</string>
+    <string name="fgs_action_stop">Durdur</string>
+    <string name="bg_tracking_active">Arka Plan Takibi Aktif</string>
+    <string name="bg_tracking_inactive">Arka Plan Takibi Kapalı</string>
+
+    <!-- Backup, Security & Feedback -->
+    <string name="backup_title">Ayarlar</string>
+    <string name="theme_mode_title">Tema</string>
+    <string name="theme_system">Sistem</string>
+    <string name="theme_dark">Gece</string>
+    <string name="theme_light">Gündüz</string>
+    <string name="profile_title">Profil</string>
+    <string name="encrypted_backup_title">Şifreli CSV Yedekleme</string>
+    <string name="feedback_title">Geri Bildirim</string>
+    <string name="feedback_submit">Yerel Olarak Kaydet</string>
+    <string name="feedback_email_draft">E-posta İstemcisinde Aç</string>
+</resources>
